@@ -3,7 +3,7 @@ module.exports = {
     title: `whatever we will do`,
     author: `Capadesu`,
     description: `Learn with Capadesu`,
-    siteUrl: `https://workcapadesu.netlify.app/`,
+    siteUrl: `https://capadesuwork.gatsbyjs.io/`,
     social: {
       twitter: `capadesu.space`,
     },

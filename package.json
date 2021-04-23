@@ -42,7 +42,7 @@
   "devDependencies": {
     "prettier": "^2.0.5"
   },
-  "homepage": "https://workcapadesu.netlify.app/",
+  "homepage": "https://capadesuwork.gatsbyjs.io/",
   "license": "MIT",
   "scripts": {
     "build": "rm -rf public && rm -rf .cache && gatsby build",

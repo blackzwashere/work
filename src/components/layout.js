@@ -56,7 +56,7 @@ class Layout extends React.Component {
           <main>{children}</main>
         </div>
         <footer>
-            Built with ❤️ using <a href="https://gohugo.io" target="_blank" rel="noopener noreferrer">Hugo
+            Built with ❤️ using <a href="https://www.gatsbyjs.com" target="_blank" rel="noopener noreferrer">Gatsby Js
           </a>
           <div className="social-links">
             <a

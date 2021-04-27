@@ -114,7 +114,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-point`,
+        name: `capadesu learn`,
         short_name: `point`,
         start_url: `/`,
         background_color: `#ffffff`,
